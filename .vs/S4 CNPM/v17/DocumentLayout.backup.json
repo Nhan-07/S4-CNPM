@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phant\\source\\repos\\S4 CNPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4695C9-89E4-4FC1-B1E1-D3CEF197D441}|S4 CNPM\\S4 CNPM.csproj|c:\\users\\phant\\source\\repos\\s4 cnpm\\s4 cnpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D4695C9-89E4-4FC1-B1E1-D3CEF197D441}|S4 CNPM\\S4 CNPM.csproj|solutionrelative:s4 cnpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phant\\source\\repos\\S4 CNPM\\S4 CNPM\\Form1.cs",
+              "RelativeDocumentMoniker": "S4 CNPM\\Form1.cs",
+              "ToolTip": "C:\\Users\\phant\\source\\repos\\S4 CNPM\\S4 CNPM\\Form1.cs [Design]",
+              "RelativeToolTip": "S4 CNPM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:08:12.308Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
